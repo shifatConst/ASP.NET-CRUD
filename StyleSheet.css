@@ -1,0 +1,15 @@
+﻿body {
+}
+.container{
+/*    margin: 10px 0px;*/
+/*    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+.heading{
+    text-align: center;
+}
+.button{
+    border-radius: 5px;
+}
